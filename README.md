@@ -32,3 +32,8 @@ Finally, you can get the results in **testdata**
 # Note
 The run_multiprocess.py is implemented by multiprocess in Python, which can imporve the speed in processsing Large number of pictures
 
+# Reference
+https://blog.csdn.net/ajianyingxiaoqinghan/article/details/71435098
+http://www.cnblogs.com/Imageshop/archive/2013/04/17/3026881.html
+https://blog.csdn.net/sky200543012/article/details/50687970
+
